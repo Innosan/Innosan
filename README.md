@@ -11,7 +11,7 @@
             <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="My Spotify">
         </a>
     </div>
-    <div style="font-size: 24px; margin-top: 20px; font-family: 'JetBrains Mono'"><b>💀 Hello there...</b></div>
+    <div style="font-size: 24px; margin-top: 20px;"><b>💀 Hello there...</b></div>
 </div>
 
 ---
@@ -19,9 +19,9 @@
 ## 👨‍💻 About Me: 
 #### Little front-end dev from Russia, St. Petersburg.
 
-- 👨‍🎓 currently styding some things in a *college*;
+- 👨‍🎓 currently studying some things in a *college*;
 -  🌱 actively learning front-end stuff, like React, Vue, etc.;
-- 🎷 in my free time i'm composing jazz-ish *lofi* beats 👀 and playing games;
+- 🎷 in my free time I'm composing jazz-ish *lofi* beats 👀 and playing games;
 - 📧 tg is your way to reach me!
 
 ---
@@ -34,14 +34,18 @@
 <div id="languages">
     <img width="48" style="margin-left: 10px;" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img width="48" style="margin-left: 10px;" title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Sass" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img width="48" style="margin-left: 10px;" title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="48" style="margin-left: 10px;" title="C#" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+    <img width="48" style="margin-left: 10px;" title="PHP" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+
 </div>
 
 ### 📚 Frameworks and Libraries:
 <div id="frameworks_libraries">
     <img width="48" style="margin-left: 10px;" title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img width="48" style="margin-left: 10px;" title="Vue" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+    <img width="48" style="margin-left: 10px;" title="Vue" alt="Yii2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-plain.svg" />
 </div>
 
 ### 🗑️ Databases:
@@ -63,6 +67,13 @@
     <img width="48" style="margin-left: 10px;" title="Adobe Illustrator" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
     <img width="48" style="margin-left: 10px;" title="Adobe Photoshop" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
+
+### ◻️◻️◻️ Other:
+<div id="design">
+    <svg  style="margin-left: 10px;" viewBox="0 0 48 48">
+        <path d="M82.48 63.578l22.418-38.402 10.832 38.402-10.832 38.398zm-10.926 6.238l22.422 38.402-39.047-9.922-28.211-28.48zM93.969 18.93L71.555 57.34H26.719L54.93 28.855zm32 31.582L112.293.031 61.25 13.559l-7.555 13.18-15.336-.109L1 63.582l37.359 36.949h.004l15.324-.113 7.57 13.176 51.035 13.527 13.676-50.473-7.762-13.07zm0 0" fill="white"></path>
+    </svg>
+</div>
 </div>
 
 ---
@@ -75,4 +86,4 @@
 
 ---
 
-## <div align=center style="font-size: 24px; margin-top: 20px; font-family: 'JetBrains Mono'"><b>👾 See you, space coder... 👾</b></div>
+## <div align=center style="font-size: 24px; margin: 20px; font-family: 'JetBrains Mono'"><b>👾 See you, space coder... 👾</b></div>
