@@ -80,7 +80,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Innosan&theme=dracula&hide_border=true&border_radius=24)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Innosan&layout=compact&theme=dracula&hide_border=true&border_radius=24)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Innosan&layout=compact&theme=dracula&hide_border=true&border_radius=24)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
