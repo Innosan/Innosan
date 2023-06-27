@@ -17,10 +17,10 @@
 ---
 
 ## 👨‍💻 About Me: 
-#### Little front-end dev from Russia, St. Petersburg.
+#### Little android and front-end dev from Russia, St. Petersburg.
 
-- 👨‍🎓 currently studying some things in a *college*;
--  🌱 actively learning front-end stuff, like React, Vue, etc.;
+- 👨‍🎓 currently studying some things in jetpack compsoe world;
+-  🌱 actively learning android stuff, like Jetpack, KMM, etc.;
 - 🎷 in my free time I'm composing jazz-ish *lofi* beats 👀 and playing games;
 - 📧 tg is your way to reach me!
 
@@ -32,6 +32,7 @@
 
 ### 💻 Languages:
 <div id="languages">
+    <img width="48" style="margin-left: 10px;" title="Kotlin" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img width="48" style="margin-left: 10px;" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img width="48" style="margin-left: 10px;" title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Sass" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -56,6 +57,7 @@
 
 ### 💿 Software:
 <div id="software">
+    <img width="48" style="margin-left: 10px;" title="Visual Studio" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Visual Studio" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img width="48" style="margin-left: 10px;" title="JetBrains" alt="JetBrains" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -68,7 +70,7 @@
     <img width="48" style="margin-left: 10px;" title="Adobe Photoshop" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
 
-### ◻️◻️◻️ Other:
+### ◻️ Other:
 <div id="design">
     <img width="48" style="margin-left: 10px;" title="Unity" alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </div>
