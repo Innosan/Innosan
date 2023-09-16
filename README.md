@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me: 
 #### Little android and front-end dev from Russia, St. Petersburg.
 
-- 👨‍🎓 currently studying some things in jetpack compsoe world;
+- 👨‍🎓 currently studying some things in jetpack compose world;
 -  🌱 actively learning android stuff, like Jetpack, KMM, etc.;
 - 🎷 in my free time I'm composing jazz-ish *lofi* beats 👀 and playing games;
 - 📧 tg is your way to reach me!
@@ -82,7 +82,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Innosan&theme=dracula&hide_border=true&border_radius=24)](https://git.io/streak-stats)
 
-[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Innosan&hide=php&layout=compact&theme=dracula&hide_border=true&border_radius=24)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Innosan&hide=php&langs_count=6&layout=compact&theme=dracula&hide_border=true&border_radius=24)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
