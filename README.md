@@ -17,13 +17,29 @@
 ---
 
 ## 👨‍💻 About Me:
-#### Full-stack & Android developer from Russia, St. Petersburg.
+#### Full-Stack & Android Developer with a Passion for Design
 
-- 👨‍🎓 currently studying front-end development with advanced tech and desktop development,
-- 🎷 in my free time I'm composing jazz-ish *lofi* beats 👀 and playing games,
-- 📧 tg is your way to reach me!
+I'm a dedicated full-stack and Android developer from St. Petersburg, Russia, with a strong emphasis on design, UI/UX, and front-end development. My focus on component-based development allows me to create efficient, scalable, and maintainable code.
 
----
+- 👨‍🎓 currently studying full-stack development with huge focus on design, UI/UX and front-end in general
+- 🎷 in my free time I'm composing jazz-ish *lofi* beats 👀 and playing games
+- 📧 you can reach me with telegram or email!
+
+
+## 🔑 Key Skills and Experiences:
+
+* 💻 **Full-Stack Development**
+    * Proficient in a wide range of technologies and frameworks.
+* 🤖 **Android Development**
+    * Experienced in building native Android applications using Kotlin, with a focus on creating user-friendly interfaces and robust functionality.
+* 🖋️ **Design-Centric Approach**
+    * Committed to delivering visually appealing and intuitive user experiences. I have a keen eye for design principles and a passion for creating beautiful, functional interfaces.
+* 🥡 **Component-Based Development**
+    * Advocate for modular and reusable components to improve code maintainability and efficiency.
+* ✔️ **Successful Projects**
+    * A track record of delivering successful paid projects, demonstrating my ability to solve complex problems and meet client requirements.
+* ✨ **Eagerness for New Tech**
+    * Always staying up-to-date with the latest trends and technologies in the development world. I'm excited to explore new tools and techniques to enhance my skills and deliver innovative solutions.
 
 ## 🛠️ Software Stack and Tools:
 
@@ -34,6 +50,7 @@
     <img width="48" style="margin-left: 10px;" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img width="48" style="margin-left: 10px;" title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img width="48" style="margin-left: 10px;" title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Tailwind" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Sass" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img width="48" style="margin-left: 10px;" title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Kotlin" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
@@ -49,6 +66,7 @@
     <img width="48" style="margin-left: 10px;" title="Vue" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
     <img width="48" style="margin-left: 10px;" title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img width="48" style="margin-left: 10px;" title="Jetpack Compose" alt="Jetpack Compose" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Vitest" alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 </div>
 
 ### ✈️ Server Side:
@@ -61,8 +79,9 @@
 
 ### 🗑️ Databases:
 <div id="databases">
-    <img width="48" style="margin-left: 10px;" title="Firebase" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
     <img width="48" style="margin-left: 10px;" title="Supabase" alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Firebase" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+    <img width="48" style="margin-left: 10px;" title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     <img width="48" style="margin-left: 10px;" title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
@@ -72,13 +91,15 @@
     <img width="48" style="margin-left: 10px;" title="Androi Studio" alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Visual Studio" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img width="48" style="margin-left: 10px;" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="48" style="margin-left: 10px;" title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 </div>
 
 ### 🖌️ Design:
 <div id="design">
     <img width="48" style="margin-left: 10px;" title="Figma" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img width="48" style="margin-left: 10px;" title="Adobe Illustrator" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+    <img width="48" style="margin-left: 10px;" title="Canva" alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
     <img width="48" style="margin-left: 10px;" title="Adobe Photoshop" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+    <img width="48" style="margin-left: 10px;" title="Adobe Illustrator" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 </div>
 
 ### ◻️ Other:
@@ -91,17 +112,13 @@
 
 ## 🥇 Stats:
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Innosan&theme=dracula&hide_border=true&border_radius=24" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=Innosan&hide=php&langs_count=6&layout=compact&theme=dracula&hide_border=true&border_radius=24" />
-</a>
+<img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Innosan&theme=dracula&hide_border=true&border_radius=24" />
+<img height=200 align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=Innosan&hide=php,css&layout=compact&langs_count=6&theme=dracula&hide_border=true&border_radius=24&card_width=400" />
 </div>
 
 ---
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Innosan)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Innosan&theme=dracula&hide_border=true&border_radius=24&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
