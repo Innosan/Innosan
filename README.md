@@ -116,9 +116,9 @@ I'm a dedicated full-stack and Android developer from St. Petersburg, Russia, wi
 </div>
 
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Innosan&layout=donut&langs_count=6&theme=dark_github&hide=php,css)]
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Innosan&layout=donut&langs_count=6&theme=dracula&hide=php,css)]()
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Innosan&theme=dracula&hide_border=true&border_radius=24&langs_count=10&layout=compact)]()
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Innosan&hide_title=true&langs_count=10&theme=dracula)](https://wakatime.com/@Innosan)
 
 ---
 
