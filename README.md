@@ -113,12 +113,11 @@ I'm a dedicated full-stack and Android developer from St. Petersburg, Russia, wi
 ## 🥇 Stats:
 <div>
 <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Innosan&theme=dracula&hide_border=true&border_radius=24" />
-<img height=200 align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=Innosan&hide=php,css&layout=compact&langs_count=6&theme=dracula&hide_border=true&border_radius=24&card_width=400" />
 </div>
 
 ---
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Innosan&theme=dracula&hide_border=true&border_radius=24&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Innosan&layout=donut&langs_count=6&theme=dark_github&hide=php,css)]
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Innosan&theme=dracula&hide_border=true&border_radius=24&langs_count=10&layout=compact)]
 
 ---
 
